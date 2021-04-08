@@ -27,6 +27,8 @@ VolgaCTF{3723759ca308887d334afe8074ec9c23}
 
 Node JSON.parse(‘{“amount”:100000000000000000000000000000000000000000000000000000000000001E-60}’).amount 100 MySQL select json_extract(‘{“amount”:100000000000000000000000000000000000000000000000000000000000001E-60}’, ‘$.amount’); 100.00000000000001
 
+Due to different roundings in parsing, it was possible to take the balance into minus (Round-off error)
+
 ![image](https://user-images.githubusercontent.com/81301788/112892534-a0954a80-9103-11eb-8898-0590318b67c8.png)
 
 *** I found 199.95 token by coincidence and still thinking about how it works
