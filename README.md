@@ -31,7 +31,5 @@ Due to different roundings in parsing, it was possible to take the balance into 
 
 ![image](https://user-images.githubusercontent.com/81301788/112892534-a0954a80-9103-11eb-8898-0590318b67c8.png)
 
-*** I found 199.95 token by coincidence and still thinking about how it works
 
-![image](https://user-images.githubusercontent.com/81301788/112892763-f538c580-9103-11eb-9ee4-b110f441f9cf.png)
 
