@@ -29,7 +29,7 @@ Node JSON.parse(‘{“amount”:10000000000000000000000000000000000000000000000
 
 Due to different roundings in parsing, it was possible to take the balance into minus (Round-off error)
 
-![image](https://user-images.githubusercontent.com/81301788/112892534-a0954a80-9103-11eb-8898-0590318b67c8.png)
+
 
 
 
